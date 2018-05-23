@@ -1,0 +1,8 @@
+create table userposts(
+id int auto_increment not null primary key,
+username varchar(50) not null,
+content varchar(1000) not null,
+created_on timestamp not null,
+privacy varchar(20) not null,
+image blob
+);

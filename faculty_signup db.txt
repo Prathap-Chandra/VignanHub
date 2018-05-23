@@ -1,0 +1,13 @@
+create table faculty_signup(
+id int auto_increment not null primary key,
+username varchar(50) not null,
+email varchar(50) not null,
+degree varchar(50) not null,
+dob varchar(50) not null,
+doj varchar(50) not null,
+experience varchar(50) not null,
+ra varchar(50) ,
+journals varchar(50),
+password varchar(50) not null,
+propic blob not null
+);

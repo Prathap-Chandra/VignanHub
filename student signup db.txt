@@ -1,0 +1,13 @@
+create table student_signup(
+id int auto_increment not null primary key,
+username varchar(50) not null,
+rollno varchar(50) not null,
+email varchar(50) not null,
+dob varchar(50) not null,
+interns varchar(1000) not null,
+dept varchar(50) not null,
+batch varchar(50) not null,
+skills varchar(50) not null,
+password varchar(50) not null,
+image longblob
+);

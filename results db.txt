@@ -1,0 +1,17 @@
+create table results(
+id int auto_increment not null primary key,
+student_name varchar(50) not null,
+rollno varchar(50) not null,
+dept varchar(50) not null,
+batch varchar(50) not null,
+topic varchar(50) not null,
+faculty varchar(50) not null,
+conducted_on varchar(50) not null,
+q_attempted varchar(50) not null,
+marks varchar(50) not null,
+ipaddress varchar(50) not null,
+device varchar(50) not null,
+os varchar(50) not null,
+browser varchar(50) not null,
+attempted_on timestamp
+);

@@ -1,0 +1,15 @@
+create table recruiter_signup(
+id int auto_increment not null primary key,
+username varchar(50) not null,
+role varchar(50) not null,
+company varchar(50) not null,
+industry varchar(50) not null,
+experience varchar(50) not null,
+title varchar(50) not null,
+skills varchar(50) not null,
+description varchar(50) not null,
+outcome varchar(50) not null,
+applyby varchar(50) not null,
+password varchar(50) not null,
+image blob
+);
