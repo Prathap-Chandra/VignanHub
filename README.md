@@ -1,7 +1,7 @@
 # VignanHub
 A college network to digitalize and automate the manual work 
 
-<img width="1440" alt="Screenshot 2019-08-27 at 11 43 59 PM" src="https://user-images.githubusercontent.com/38378840/63799139-15514300-c929-11e9-9c49-707b42e79491.png">
+<img width="1440" alt="Screenshot 2019-08-27 at 11 44 12 PM" src="https://user-images.githubusercontent.com/38378840/63800760-76c6e100-c92c-11e9-83ec-8462b6ab5261.png">
 
 <img width="1440" alt="Screenshot 2019-08-28 at 12 29 33 AM" src="https://user-images.githubusercontent.com/38378840/63800035-f2279300-c92a-11e9-8645-83719bd4cd9c.png">
 
